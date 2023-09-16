@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Marilou';
+    src: url('Marilou.eot');
+    src: url('Marilou.eot?#iefix') format('embedded-opentype'),
+        url('Marilou.woff2') format('woff2'),
+        url('Marilou.woff') format('woff'),
+        url('Marilou.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
